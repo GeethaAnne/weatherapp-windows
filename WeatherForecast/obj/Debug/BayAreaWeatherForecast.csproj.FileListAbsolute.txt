@@ -1,0 +1,13 @@
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\App.g.i.cs
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\ForecastPage.g.i.cs
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\MainPage.g.i.cs
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.g.resources
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.dll
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\WeatherForecast.pdb
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\Bin\Debug\ApplicationIcon.png
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\Bin\Debug\Background.png
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\Bin\Debug\WeatherForecast.dll
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\Bin\Debug\WeatherForecast.pdb
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\Bin\Debug\AppManifest.xaml
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\Bin\Debug\WeatherForecast.xap
+C:\Users\Geetha\Downloads\WeatherForecast\WeatherForecast\WeatherForecast\obj\Debug\XapCacheFile.xml
